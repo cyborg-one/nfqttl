@@ -1,0 +1,6 @@
+id=nfqnlttl
+name=nfqnlttl
+version=v1
+versionCode=1
+author=Cyborg-one
+description=Change ttl. 	If You kernel support change ttl, will be applied rule iptables (iptable -t mangle -A POSTROUTING -j TTL --set-ttl 64), else TTL will be set user space application nfqnlttl. Application nfqnlttl is based library libnetfilter_queue.
