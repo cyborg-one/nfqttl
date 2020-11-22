@@ -24,4 +24,4 @@ or by manually downloading [a zip from releases](https://github.com/cyborg-one/n
 
 ## License
 
-[GNU GPLv3](https://github.com/cyborg-one/nfqttl/releases/LICENSE).
+[GNU GPLv3](https://github.com/cyborg-one/nfqttl/blob/master/LICENSE).
