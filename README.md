@@ -20,7 +20,8 @@ or by manually downloading [a zip from releases](https://github.com/cyborg-one/n
 ## Links
 
 - [GitHub repository](https://github.com/cyborg-one/nfqttl)
-- [**Donate** support Author bitcoin (btc)](https://www.blockchain.com/btc/address/bc1qxmsn9qeptpa90sxejz8em4w5rvcggnm
+- [**Donate** support Author bitcoin (btc)](https://www.blockchain.com/btc/address/bc1qxmsn9qeptpa90sxejz8em4w5rvcggnmrvq34uh)
+
 
 ## Changelog
 
