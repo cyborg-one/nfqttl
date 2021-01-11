@@ -27,6 +27,7 @@ or by manually downloading [a zip from releases](https://github.com/cyborg-one/n
 
 v2.5
 * Add tcp sequence split.
+
 v2.6
 * The volume of the buffer is expanded.
 
