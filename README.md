@@ -9,7 +9,7 @@
 
 * Download and install from storage in Magisk App the installing archive:
 [nfqttl2.8.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.8/nfqttl2.8.zip) or 
-[nfqttl2.1.1.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.1.2/nfqttl2.1.2.zip).
+[nfqttl2.1.2.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.1.2/nfqttl2.1.2.zip).
 * Reboot.
 * When device boots, Magisk will start the module.
 
