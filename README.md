@@ -1,7 +1,8 @@
 # Nfqttl
 
 * Nfqttl - module for modifying the ttl value in the packet header.
-* For outgoing packets, the ttl value is set to 64 for mobile data interface and 65 for wifi and the tcp sequence split.
+* Sets the ttl value of 64 for the packet on the mobile data interface and sets the ttl value of 65 for the packet on the local interface (wifi, bluetooth).
+* The tcp sequence split.
 * For incoming packets, if ttl == 1, set to ttl 64.
 * IPv6 packets are dropped.
 
