@@ -28,7 +28,7 @@ and sends them back to the kernel.
 ## Links
 
 - [GitHub repository module](https://github.com/cyborg-one/nfqttl)
-- [GitHub repository source](https://github.com/cyborg-one/nfqttl-src)
+- [GitHub repository source code](https://github.com/cyborg-one/nfqttl-src)
 
 ## Changelog
 
