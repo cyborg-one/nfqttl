@@ -17,7 +17,7 @@
 ## How it work
 
 * The networking subsystem of the Linux kernel has a mechanism to pass network packets to the user 
-application for processing. Nfqttl receives packets, edits the ttl packet header fields and the checksum, 
+application for processing (NetFilter Queue). Nfqttl receives packets, edits the ttl packet header fields and the checksum, 
 and sends them back to the kernel.
 
 ## Compatibility
