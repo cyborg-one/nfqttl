@@ -9,15 +9,15 @@
 ## How to use
 
 * Download and install from storage in Magisk App the installing archive:
-[nfqttl2.8.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.8/nfqttl2.8.zip) or 
-[nfqttl2.1.2.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.1.2/nfqttl2.1.2.zip).
+[nfqttl2.8.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.8/nfqttl2.8.zip) or
+[nfqttl2.1.1.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.1.2/nfqttl2.1.2.zip).
 * Reboot.
 * When device boots, Magisk will start the module.
 
 ## How it work
 
-* The networking subsystem of the Linux kernel has a mechanism to pass network packets to the user 
-application for processing (NetFilter Queue). Nfqttl receives packets, edits the ttl packet header fields and the checksum, 
+* The networking subsystem of the Linux kernel has a mechanism to pass network packets to the user
+application for processing (NetFilter Queue). Nfqttl receives packets, edits the ttl packet header fields and the checksum,
 and sends them back to the kernel.
 
 ## Compatibility
