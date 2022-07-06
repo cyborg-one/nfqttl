@@ -3,13 +3,12 @@
 * Nfqttl - module for modifying the ttl value in the packet header.
 * Sets the ttl value of 64 for the packet on the mobile data interface and sets the ttl value of 65 for the packet on the local interface (wifi, bluetooth).
 * Splitting the tcp packet into sequences.
-* For incoming packets, if ttl == 1, set to ttl 64.
+* For incoming packets, if ttl = 1, set to ttl 64.
 * IPv6 packets are dropped.
 
 ## How to use
 
 * Download and install from storage in Magisk App the installing archive:
-[nfqttl2.8.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.8/nfqttl2.8.zip) or
 [nfqttl2.1.2.zip](https://github.com/cyborg-one/nfqttl/releases/download/2.1.2/nfqttl2.1.2.zip).
 * Reboot.
 * When device boots, Magisk will start the module.
