@@ -46,8 +46,9 @@ v2.8
 ## Donate
 
 * https://www.buymeacoffee.com/cyborgone
-* bitcoin:bc1qxmsn9qeptpa90sxejz8em4w5rvcggnmrvq34uh
-* litecoin:ltc1qszqj7dfgqjn3pw7g7uw4yu7fc8ded9u3clyt9f
+* Bitcoin: bc1qxmsn9qeptpa90sxejz8em4w5rvcggnmrvq34uh
+* Litecoin: ltc1qszqj7dfgqjn3pw7g7uw4yu7fc8ded9u3clyt9f
+* Toncoin: EQA9Ac781nf9_-BEF8yLfc4wwtrkqamB2jWkF8TpBodSyBKe
 
 ## License
 
